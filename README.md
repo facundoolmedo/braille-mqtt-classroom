@@ -58,26 +58,20 @@ pip install -r requirements.txt
 ## ▶️ Ejecución
 
 ```bash
-python main.py
+python master_app.py
 ```
 
 ---
 
 ## 🔧 Desarrollo de hardware
 
-En paralelo, el equipo del centro PID BRAILLE está desarrollando los dispositivos físicos basados en ESP32 con displays Braille (LEDs) para que los estudiantes puedan recibir y visualizar las expresiones en tiempo real.
+En paralelo, el equipo del centro está desarrollando los dispositivos físicos basados en ESP32 con displays Braille (LEDs) para que los estudiantes puedan recibir y visualizar las expresiones en tiempo real.
 
 ---
 
 ## 🏫 Sobre el proyecto
 
-Este desarrollo forma parte de una iniciativa de investigación y desarrollo del **Centro de Investigación PID BRAILLE** perteneciente a la **Universidad Tecnológica Nacional - Facultad Regional Córdoba**.
-
----
-
-## 📄 Licencia
-
-Este proyecto se distribuye bajo la licencia MIT. Ver el archivo [LICENSE](LICENSE) para más información.
+Este desarrollo forma parte de una iniciativa de investigación y desarrollo del **Centro de Investigación CIII** Proyecto PID BRAILLE perteneciente a la **Universidad Tecnológica Nacional - Facultad Regional Córdoba**.
 
 ---
 
