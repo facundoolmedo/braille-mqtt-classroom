@@ -27,11 +27,15 @@ La aplicación cuenta con una interfaz de escritorio desarrollada en PyQt5, la c
 
 ### Interfaz principal
 
+![Preview 1](images/preview_1.jpg)
 
+### Visualización de Braille
 
-### Visualización de LaTeX y Braille
+![Preview 2](images/preview_2.jpg)
 
+### Historial de problemas enviados
 
+![Preview 3](images/preview_3.jpg)
 
 ---
 
