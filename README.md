@@ -1,6 +1,6 @@
 # Braille MQTT Classroom
 
-**Braille MQTT Classroom** es una herramienta educativa desarrollada por el centro PID BRAILLE (UTN FRC) para facilitar la inclusión en la enseñanza de matemáticas. Permite enviar problemas matemáticos desde una PC a dispositivos Braille basados en ESP32 a través de MQTT.
+**Braille MQTT Classroom** es una herramienta educativa desarrollada por el centro CIII - UTN FRC (PID BRAILLE)  para facilitar la inclusión en la enseñanza de matemáticas. Permite enviar problemas matemáticos desde una PC a dispositivos Braille basados en ESP32 a través de MQTT.
 
 La aplicación cuenta con una interfaz de escritorio desarrollada en PyQt5, la cual permite a los docentes:
 
