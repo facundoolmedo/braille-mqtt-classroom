@@ -48,7 +48,7 @@ La aplicación cuenta con una interfaz de escritorio desarrollada en PyQt5, la c
 ## 📦 Instalación
 
 ```bash
-git clone https://github.com/tuusuario/braille-mqtt-classroom.git
+git clone https://github.com/facundoolmedo/braille-mqtt-classroom.git
 cd braille-mqtt-classroom
 python -m venv .venv
 .venv\Scripts\activate
